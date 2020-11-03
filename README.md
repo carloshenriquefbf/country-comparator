@@ -1,6 +1,6 @@
 # CountryComparator
 
-CountryComparator is a tool for helping you visualize countries data and compare it to other countries! 
+CountryComparator is a tool for helping you visualize countries' data and compare it to other countries! 
 
 # Instructions:
 
