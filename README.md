@@ -5,7 +5,8 @@ CountryComparator is a tool for helping you visualize countries data and compare
 # Instructions:
 
 It's pretty straightforward, just follow the guidelines of the menu after it starts.
-![](documents/readme.png)
+
+![](documents/readme.PNG)
 
 # How does it work:
 The data comes from the [CIA Factbook](https://www.cia.gov/library/publications/the-world-factbook/index.html "CIA Factbook"). It is a great reference on the history, people and society, government, economy, energy, geography, communications, transportation, military, and transnational issues for 267 world entities.
