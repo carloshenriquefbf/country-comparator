@@ -1,6 +1,6 @@
 # CountryComparator
 
-CountryComparator is a tool for helping you visualize countries' data and compare it to other countries! 
+CountryComparator is a tool for helping you visualize data from countries and compare it to other countries! 
 
 # Instructions:
 
@@ -28,7 +28,7 @@ If you have a suggestion, let me know!
 
 # Issues:
 
-The CIA Factbook is a massive source of data. In order to parse through it and use it as a .csv file I had to use data that's very outdated (it's from 2006!). However, I'm already planning on updating the database with a few more topics to compare the data of the countries and as I add them, I'll start updating the previous data on the database.
+The CIA Factbook is a massive source of data. In order to parse through it and use it as a .csv file I had to use data that's very outdated (it's from 2006!). However, I'm already planning on updating the database with a few more topics to compare the data from countries and, as I add them, I'll start updating the previous data on the database.
 
 # About the project:
 
