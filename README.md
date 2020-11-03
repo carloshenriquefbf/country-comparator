@@ -8,7 +8,7 @@ It's pretty straightforward, just follow the guidelines of the menu after it sta
 
 You can select the type of data you wish to compare and then you have 3 options:
 
-1. Select a few countries to compare the data;
+1. Select a few countries to compare their data;
 2. Select one country and compare it's data with the data of a random country;
 3. Compare the data of two randomly selected countries.
 
