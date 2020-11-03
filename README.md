@@ -6,6 +6,12 @@ CountryComparator is a tool for helping you visualize countries data and compare
 
 It's pretty straightforward, just follow the guidelines of the menu after it starts.
 
+You can select the type of data you wish to compare and then you have 3 options:
+
+1. Select a few countries to compare the data;
+2. Select one country and compare it's data with the data of a random country;
+3. Compare the data of two randomly selected countries.
+
 ![](documents/readme.PNG)
 
 # How does it work:
