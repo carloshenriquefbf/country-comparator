@@ -14,7 +14,7 @@ You can select the type of data you wish to compare and then you have 3 options:
 
 ![](documents/readme.PNG)
 
-# How does it work:
+# How it works:
 The data comes from the [CIA Factbook](https://www.cia.gov/library/publications/the-world-factbook/index.html "CIA Factbook"). It is a great reference on the history, people and society, government, economy, energy, geography, communications, transportation, military, and transnational issues for 267 world entities.
 I handpicked a few of these data for this project and I'm planning on adding many more! For now, we can compare:
 
